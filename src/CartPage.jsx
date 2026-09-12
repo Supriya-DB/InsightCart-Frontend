@@ -233,7 +233,7 @@ export default function CartPage() {
             key: "rzp_test_TSo3qhEunMsxwm",
             amount: Math.round(amount * 100), // Razorpay expects paise, backend returns rupees
             currency: "INR",
-            name: "Sales Savvy",
+            name: "INSIGHTCART",
             description: "Product Purchase",
             order_id: razorpayOrderId,
 

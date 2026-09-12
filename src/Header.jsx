@@ -23,7 +23,7 @@ export default function Header() {
         alignItems: "center",
       }}
     >
-      <h2>Sales Savvy</h2>
+      <h2>INSIGHTCART</h2>
 
       <nav style={{ display: "flex", gap: "20px", alignItems: "center" }}>
         <Link style={{ color: "white" }} to="/home">

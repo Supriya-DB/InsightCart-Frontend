@@ -9,7 +9,7 @@ export default function Footer() {
         marginTop: "30px",
       }}
     >
-      <p>© 2026 Sales Savvy. All Rights Reserved.</p>
+      <p>© 2026 INSIGHTCART . All Rights Reserved.</p>
     </footer>
   );
 }
